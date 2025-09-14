@@ -16,4 +16,4 @@ This project is a practice exercise from **freeCodeCamp** to learn about DOM man
 ---
 
 ## 🔗 Link Website
-[https://tinonurcahya.github.io/rock_paper_scissors/]
+[https://tinonurcahya.github.io/rock-paper-scissors-js/]
